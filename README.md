@@ -4,7 +4,7 @@ FIX Sender in Python using simplefix &amp; tkinter
 It's challenging to find fully functional working FIX Sender using Python so I build my own using AI. 
 
 Setup and startup Instruction
-1) pip in simplefix
+1) pip install simplefix
 2) Python main.py
 3) In Connection tab, Start the FIX Server
 
