@@ -1,0 +1,19 @@
+{
+  "host": "127.0.0.1",
+  "port": 9823,
+  "sender_comp_id": "SENDER",
+  "target_comp_id": "TARGET",
+  "username": "user",
+  "password": "password",
+  "heartbeat_interval": 30,
+  "client_role": "INITIATOR",
+  "client_reset_seq": true,
+  "server_host": "127.0.0.1",
+  "server_port": 9823,
+  "server_sender_comp_id": "TARGET",
+  "server_target_comp_id": "SENDER",
+  "server_role": "ACCEPTOR",
+  "server_reset_seq": false,
+  "server_target_host": "127.0.0.1",
+  "server_target_port": 9824
+}
